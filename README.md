@@ -3,12 +3,19 @@
 ## Purpose
 To catalog and share all my python scripts used in my DevOps journey
 
+## Prerequisites
+On Mac 🍏
+- AWS cli installed <br>
+  ```brew install awscli```
+- Docker installed <br>
+  ```brew install --cask docker```
+- Python and dependencies installed <br>
+  ```brew install python```
+
 ## 🚀 How to's
 
 ### 📁 AWS
-- AWS CLI installed and configured <br>
-  ```aws configure```
-- Existing services running
+
 #### > push_to_ecr.py
 ```
 Requirements
