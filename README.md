@@ -1,4 +1,4 @@
-# 🐍 Python playbook
+# 🐍 Python DevOps playbook
 
 ## Purpose
 To catalog and share all my python scripts used in my DevOps journey
