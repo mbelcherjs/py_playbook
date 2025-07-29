@@ -3,9 +3,9 @@
 ## Purpose
 To catalog and share all my python scripts used in my DevOps journey
 
-## 🚀How to's
+## 🚀 How to's
 
-### AWS
+### 📁 AWS
 - AWS CLI installed and configured <br>
   ```aws configure```
 - Existing services running
@@ -22,7 +22,7 @@ docker build -t my-image .
 python push_to_ecr.py
 ```
 
-### File Difference
+### 📁 File Difference
 
 #### > file_diff.py
 ```
